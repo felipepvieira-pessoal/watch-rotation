@@ -1,0 +1,1 @@
+{"name":"Watch Rotation","short_name":"Watch Rotation","description":"Seu rodízio pessoal de relógios","start_url":"./","scope":"./","display":"standalone","background_color":"#101113","theme_color":"#101113","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
